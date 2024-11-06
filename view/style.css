@@ -1,0 +1,75 @@
+* {margin:0;}
+
+
+/* home.php */
+
+.form_button {
+    background: transparent;
+    text-align: center;
+    width: 100%;
+    cursor: pointer;
+    width: 100px;
+    border: solid 1px black;
+}
+
+.form_name {
+    text-align: left;
+    width: 222px;
+    border: solid 1px black;
+}
+
+.shift_table {
+    border-collapse: collapse;
+    margin: 30px;
+  }
+
+.shift_table th, .shift_table td {
+    text-align: center;
+    border: solid 1px black;
+    width: 120px;
+}
+
+.shift_table th {
+    background-color: rgb(194, 208, 255);
+}
+
+
+/* set.php */
+
+.date {
+    width: 168px;
+    text-align: center;
+    border: solid 1px black;
+}
+
+.time {
+    width: 43px;
+    border: solid 1px black;
+}
+
+.shift_content {
+    width: 235px;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.shift_regist_button {
+    background: transparent;
+    width: 100%;
+    cursor: pointer;
+    width: 120px;
+    border: solid 1px black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.shift_edit_button {
+    border: none;
+    margin: 1px;
+    background: transparent;
+    text-align: left;
+    cursor: pointer;
+}
+
+
+/* detail.php */
